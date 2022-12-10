@@ -1,0 +1,1 @@
+Efecto Parallax para crear un cielo estrellado con CSS puro
